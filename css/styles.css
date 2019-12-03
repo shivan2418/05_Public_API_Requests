@@ -92,6 +92,7 @@ header h1 {
     border: 1px solid rgba(50, 50, 50, 0.3);
     transition: .4s ease-out;
     overflow: hidden;
+    
 }
 
 .card-img {
@@ -102,6 +103,7 @@ header h1 {
 
 .card-info-container {
     text-align: left;
+    
 }
 
 .card-name {
@@ -113,6 +115,7 @@ header h1 {
     color: rgba(50, 50, 50, 0.7);
     margin: 7px auto;
     transition: .4s ease-out;
+
 }
 
 .cap {
@@ -238,7 +241,6 @@ header h1 {
         margin-top: 100px;
     }
 }
-
 
 /* ===================================== 
    Desktop
