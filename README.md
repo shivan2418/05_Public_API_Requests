@@ -2,6 +2,8 @@
 Pings a public API that generates random employees. 
 Presents this data in a tile layout and in a pop up boxes if clicked.
 
+### Live demo
+Check out the [live demo](https://startupemployeedirectory.on.fleek.co/) 
 
 ### Quickstart
 
